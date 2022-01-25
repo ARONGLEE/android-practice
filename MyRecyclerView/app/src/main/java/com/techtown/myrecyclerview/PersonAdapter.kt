@@ -15,8 +15,6 @@ class PersonAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
     val ITEM = 1
     val FOOTER = 2
 
-    lateinit var listener: OnPersonItemClickListener
-
     override fun getItemViewType(position: Int): Int {
         return if(position == 0){
             HEADER

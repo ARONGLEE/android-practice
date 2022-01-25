@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidStudioProjects.iml" filepath="$PROJECT_DIR$/.idea/AndroidStudioProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyArray.iml" filepath="$PROJECT_DIR$/.idea/modules/MyArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyArray.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyArray.app.iml" />
     </modules>
   </component>
 </project>
