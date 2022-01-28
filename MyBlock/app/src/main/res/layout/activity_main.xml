@@ -19,4 +19,28 @@
         android:layout_height="wrap_content"
         android:text="apply 블록" />
 
+    <Button
+        android:id="@+id/withButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="with블록" />
+
+    <Button
+        android:id="@+id/letButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="let 실행" />
+
+    <Button
+        android:id="@+id/runButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="run 블록" />
+
+    <Button
+        android:id="@+id/alsoButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="also 블록" />
+
 </LinearLayout>
